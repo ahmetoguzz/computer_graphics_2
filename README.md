@@ -19,8 +19,8 @@ Proje Videosu:
 Projeyi bilgisayarınıza indirin
 
 ```
-git clone <>
-cd <>
+git clone https://github.com/ahmetoguzz/computer_graphics_2.git
+cd computer_graphics_2
 ```
 
 Projeyi derleyin
