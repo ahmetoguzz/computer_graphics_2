@@ -62,3 +62,8 @@ ve ardından çalıştırın
 | `v` / `V` | Sol diz (X ekseni)   |
 
 ## 🖼️ Ekran Görüntüleri
+
+![FPS Görünümü](screenshots/1.png)
+![Sahne Görünümü](screenshots/2.png)
+![Etkileşim Sonrası Görüntü](screenshots/3.png)
+![Robot Hareketi Görüntüsü](screenshots/4.png)
