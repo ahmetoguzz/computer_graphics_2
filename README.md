@@ -4,8 +4,6 @@ Bu proje, Bilgisayar Grafikleri dersi kapsamında geliştirilen bir final çalı
 
 📹 **Proje Videosu:** ![Video](https://drive.google.com/file/d/1w9HhJwxT6zm_0e4FVAhZOaboYkcTFrbZ/view?usp=sharing)
 
-
-
 📄 **Proje Raporu:** ![Rapor](Rapor.pdf)
 
 ## Proje Özellikleri
