@@ -2,7 +2,7 @@
 
 Bu proje, Bilgisayar Grafikleri dersi kapsamında geliştirilen bir final çalışmasıdır. OpenGL kullanılarak hazırlanan sahnede bir robotun çeşitli hareketleri, obje etkileşimleri ve animasyonlar yer almaktadır.
 
-📹 **Proje Videosu:** ![Video](https://drive.google.com/file/d/1w9HhJwxT6zm_0e4FVAhZOaboYkcTFrbZ/view?usp=sharing)
+📹 **Proje Videosu:** [Video](https://drive.google.com/file/d/1w9HhJwxT6zm_0e4FVAhZOaboYkcTFrbZ/view?usp=sharing)
 
 📄 **Proje Raporu:** ![Rapor](Rapor.pdf)
 
